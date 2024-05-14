@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test1"
+  },
+  "course_title": "Test1",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "001",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "59793523-b612-455d-8b25-193dee363476",
+  "site_short_id": "test1"
+}
