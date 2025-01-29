@@ -1,6 +1,6 @@
 {
   "term": "",
-  "year": "",
+  "year": "2001",
   "level": [],
   "topics": [],
   "legacy_uid": "",
@@ -12,19 +12,16 @@
     "content": "",
     "website": "test1"
   },
-  "course_title": "Test1",
+  "course_title": "test1",
   "hide_download": false,
-  "course_description": "",
+  "mit_learn_topics": [],
+  "course_description": "test1",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "001",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "test1"
-  },
+  "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "59793523-b612-455d-8b25-193dee363476",
+  "site_uid": "08f75924-4bea-48bd-8016-8a89e276ca5f",
   "site_short_id": "test1"
 }
